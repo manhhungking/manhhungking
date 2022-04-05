@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### ⚡ About me: 
+ - Open and friendly.
+ - Love to learn new things, especially about FE and BE.
+
+
+### Contact with me:
+- 🔭 I’m currently studying in HCMUT
+- 🌱 I’m currently learning to become Fullstack Developer.
+- 📫 How to reach me: trinhmanhung03@gmail.com
+
 <!--
 **manhhungking/manhhungking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

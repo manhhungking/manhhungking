@@ -6,7 +6,7 @@
 
 
 ## 😄 Status:
-- 🔭 I’m currently studying in HCMUT
+- 🔭 I’m currently studying Master of Science of Computer Science and Engineering in University of Oulu
 - 🌱 I’m currently learning to become Fullstack Developer.
 
 ## 🚀 Connect with me
